@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning C language.
 - 💞️ I’m looking to collaborate on Dev c.
-- 📫 You can reach me via Emai.
+- 📫 You can reach me via Email.
 
 <!---
 guffimax/guffimax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
