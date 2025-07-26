@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guffimax.
+- 👋 Hi, I’m @Gufran Gabalwala.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning C language.
 - 💞️ I’m looking to collaborate on Dev c.
